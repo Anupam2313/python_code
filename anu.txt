@@ -1,0 +1,1 @@
+{'name': 'anupam', 'lname': 'tiwari', 'age': 123, 'class': 'MCA', 'rull no.': 20010217}
