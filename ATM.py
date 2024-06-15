@@ -5,7 +5,7 @@ class ATM:
         self.menu()
     def menu(self):
         user=input("""
-                    1.create pin
+                    1.create pin1
                     2.check balance
                     3.change pin
                     4.to withdrow
